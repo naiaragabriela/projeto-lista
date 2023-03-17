@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\adm\\source\\repos\\Aulas POO\\ListaSimplesOOP\\ListaSimplesOOP\\ListaSimplesOOP.csproj",
+      "projectUniqueName": "C:\\Users\\adm\\source\\repos\\Aulas POO\\ListaSimplesOOP\\src\\ListaSimplesOOP\\ListaSimplesOOP.csproj",
       "projectName": "ListaSimplesOOP",
-      "projectPath": "C:\\Users\\adm\\source\\repos\\Aulas POO\\ListaSimplesOOP\\ListaSimplesOOP\\ListaSimplesOOP.csproj",
+      "projectPath": "C:\\Users\\adm\\source\\repos\\Aulas POO\\ListaSimplesOOP\\src\\ListaSimplesOOP\\ListaSimplesOOP.csproj",
       "packagesPath": "C:\\Users\\adm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\adm\\source\\repos\\Aulas POO\\ListaSimplesOOP\\ListaSimplesOOP\\obj\\",
+      "outputPath": "C:\\Users\\adm\\source\\repos\\Aulas POO\\ListaSimplesOOP\\src\\ListaSimplesOOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\adm\\AppData\\Roaming\\NuGet\\NuGet.Config",
