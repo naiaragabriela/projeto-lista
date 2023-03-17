@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListaSimplesOOP", "ListaSimplesOOP\ListaSimplesOOP.csproj", "{C26101F2-DC48-4B39-9452-65906FAB586A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C26101F2-DC48-4B39-9452-65906FAB586A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C26101F2-DC48-4B39-9452-65906FAB586A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C26101F2-DC48-4B39-9452-65906FAB586A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C26101F2-DC48-4B39-9452-65906FAB586A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FFBBA2A-B3F0-40FC-940F-E0EFDE45E6E3}
+	EndGlobalSection
+EndGlobal
